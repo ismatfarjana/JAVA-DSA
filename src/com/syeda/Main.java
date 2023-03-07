@@ -1,4 +1,4 @@
-package com.print;
+package com.syeda;
 
 public class Main {
 
