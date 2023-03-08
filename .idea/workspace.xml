@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b981c4dd-d056-471f-9863-7d5a3a6fe25f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/syeda/Primitives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syeda/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syeda/Temperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syeda/TypeCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/input/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syeda/Input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/print/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syeda/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b981c4dd-d056-471f-9863-7d5a3a6fe25f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
